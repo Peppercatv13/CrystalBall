@@ -1,0 +1,13 @@
+C:\Users\ashor\source\repos\CrystalBall\CrystalBall\bin\Debug\netcoreapp3.1\CrystalBall.exe
+C:\Users\ashor\source\repos\CrystalBall\CrystalBall\bin\Debug\netcoreapp3.1\CrystalBall.deps.json
+C:\Users\ashor\source\repos\CrystalBall\CrystalBall\bin\Debug\netcoreapp3.1\CrystalBall.runtimeconfig.json
+C:\Users\ashor\source\repos\CrystalBall\CrystalBall\bin\Debug\netcoreapp3.1\CrystalBall.runtimeconfig.dev.json
+C:\Users\ashor\source\repos\CrystalBall\CrystalBall\bin\Debug\netcoreapp3.1\CrystalBall.dll
+C:\Users\ashor\source\repos\CrystalBall\CrystalBall\bin\Debug\netcoreapp3.1\CrystalBall.pdb
+C:\Users\ashor\source\repos\CrystalBall\CrystalBall\obj\Debug\netcoreapp3.1\CrystalBall.csprojAssemblyReference.cache
+C:\Users\ashor\source\repos\CrystalBall\CrystalBall\obj\Debug\netcoreapp3.1\CrystalBall.AssemblyInfoInputs.cache
+C:\Users\ashor\source\repos\CrystalBall\CrystalBall\obj\Debug\netcoreapp3.1\CrystalBall.AssemblyInfo.cs
+C:\Users\ashor\source\repos\CrystalBall\CrystalBall\obj\Debug\netcoreapp3.1\CrystalBall.csproj.CoreCompileInputs.cache
+C:\Users\ashor\source\repos\CrystalBall\CrystalBall\obj\Debug\netcoreapp3.1\CrystalBall.dll
+C:\Users\ashor\source\repos\CrystalBall\CrystalBall\obj\Debug\netcoreapp3.1\CrystalBall.pdb
+C:\Users\ashor\source\repos\CrystalBall\CrystalBall\obj\Debug\netcoreapp3.1\CrystalBall.genruntimeconfig.cache
